@@ -1,0 +1,5 @@
+{
+  "name": "NexusBoard AI",
+  "description": "Collaborative AI-powered whiteboard with real-time syncing, shape suggestions, and persistent storage.",
+  "requestFramePermissions": []
+}
